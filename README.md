@@ -7,6 +7,7 @@ Get the Samba In system programmer at http://ww1.microchip.com/downloads/en/Devi
 
 ### Firmware download:
 Get the latest firmware version at: http://www.github.com/Adjuvo/firmware-releases
+Make sure you download the correct version for you glove. In case of doubt, contact Senseglove.
 
 ### Preparing
 Keep the boot pin pressed while you power up the SenseGlove. You can find the boot
