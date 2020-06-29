@@ -18,12 +18,16 @@ The SenseGlove is now in boot mode. Start the Samba flash tool
 1. Select the correct COM port and select samd21_xplained_pro, click on connect:
 ![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/select.png "select")
 
-2. Select the correct Binary (note: left or right SenseGloves need different versions)
+Note: To find the correct COM look in your devices under Ports (COM and LPT). Remember the COMPORT
+with name 'AT91 USB to serial Converter'. In our case, it is COM10.
+![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/comport.png "select")
+
+2. Select the correct binary (note: left or right SenseGloves need different versions)
 
 3. Set the Address to 0x6000
 
 4. Press 'Send file'
 
-Wait for the process to complete, it could be rather slow and could last a few minutes
-The following screenshot gives an overview of the steps:
+Wait for the process to complete, it could be rather slow and could last a few minutes.
+The following screenshot gives an overview of the steps 2, 3 and 4:
 ![Screenshot2](https://github.com/Adjuvo/firmware-releases/raw/master/write.png "write")
