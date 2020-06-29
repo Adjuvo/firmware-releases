@@ -11,6 +11,7 @@ Get the latest firmware version at: http://www.github.com/Adjuvo/firmware-releas
 ### Preparing
 Keep the boot pin pressed while you power up the SenseGlove. You can find the boot
 as shown in this picture: 
+![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/bootpin.png "bootpin")
 
 The SenseGlove is now in boot mode. Start the Samba flash tool
 
