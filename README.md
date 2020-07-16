@@ -12,6 +12,7 @@ Make sure you download the correct version for your glove. In case of doubt, ple
 ### Preparing
 1. Keep the boot pin pressed while you plug in the SenseGlove with a micro USB cable. You can find the boot pin
 as shown in this picture: 
+
 ![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/bootpin.png "bootpin")
 
 The SenseGlove is now in boot mode. 
