@@ -21,8 +21,7 @@ The SenseGlove is now in boot mode.
 ![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/comport.png "select")
 
 ### Updating
-1. Start the Samba flash tool.
-2. Use the following settings in corresponding fields:
+1. Start the Samba flash tool and use the following settings in corresponding fields:
 - Select the connection: Noted COMPORT number the previous step
 - Select your board: samd21_xplained_pro
 - JLink TimeOutMultiplier: 0
@@ -33,11 +32,11 @@ The figure below shows an example:
 
 Click on connect. This should bring up the next window.
 
-3. Select the correct binary (note: left or right SenseGloves need different versions)
+2. Send File Name: Select the correct binary (note: left or right SenseGloves need different versions)
 
-4. Set the Address to 0x6000
+3. Address: Set the Address to 0x6000
 
-5. Press 'Send file'
+4. Press 'Send file'
 
 Wait for the process to complete, it could be rather slow and could last a few minutes.
 The following screenshot gives an overview of the steps 3, 4, 5
