@@ -20,7 +20,7 @@ as shown in this picture:
 
 The SenseGlove is now in boot mode. 
 
-2. Open the Device Manager in Windows, by right clicking the Windows Icon in the taskbar and clicking on Device Manager. Under ports (COM & LPT) a port named *AT91 USB to Serial Converter* should be available. Take note of the COMPORT number after the the program name. The figure belows shows an example:
+2. Open the Device Manager in Windows, by right clicking the Windows Icon in the taskbar and clicking on Device Manager. Under ports (COM & LPT) a port named *AT91 USB to Serial Converter* or *Bossa Program Port* should be available. Take note of the COMPORT number after the the program name. The figure belows shows an example:
 
 ![Screenshot](https://github.com/Adjuvo/firmware-releases/raw/master/comport.png "select")
 
