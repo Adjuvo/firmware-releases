@@ -1,7 +1,7 @@
 # Firmware releases for DK1.x
 
-You probably won't need to update the firmware unless explicitely told by SenseGlove. 
-If you are unsure, please contact SenseGlove. 
+__Caution: You probably won't need to update the firmware unless explicitely told by SenseGlove. 
+If you are unsure, please contact SenseGlove. __
 
 ## Updating firmware
 
