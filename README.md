@@ -11,8 +11,8 @@ Get the Samba In System Programmer at http://ww1.microchip.com/downloads/en/Devi
 ### Firmware download:
 Get the latest firmware version at: http://www.github.com/Adjuvo/firmware-releases
 Make sure you download the correct version for your glove. There are different hardware versions of the glove.
-firmware-update-DK11-* updates are for SenseGlove DK1.1 hardware, firmware-update-DK12-* are DK1.2 for and upwards. Updating the wrong
-firmware can result in incorrect functioning of the glove. In case of doubt, please contact Senseglove.
+firmware-update-DK11-* updates are for SenseGlove DK1.1 hardware, firmware-update-DK12-* are DK1.2 for and upwards. 
+⚠️ Updating the wrong firmware can result in incorrect functioning of the glove. In case of doubt, please contact Senseglove.
 
 ### Preparing
 1. Keep the boot pin pressed while you plug in the SenseGlove with a micro USB cable. You can find the boot pin
